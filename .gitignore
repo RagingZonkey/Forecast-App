@@ -1,0 +1,5 @@
+# Hidden API KEY
+.env
+
+# Modules to install manually on setup
+node_modules/
